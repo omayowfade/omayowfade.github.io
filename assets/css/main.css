@@ -1962,7 +1962,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
+		background-color: #f05854;
 		color: #fff !important;
 	}
 
@@ -2941,7 +2941,7 @@
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #3498db;
+				background-color: #f05854;
 				color: #fff !important;
 			}
 
@@ -3107,7 +3107,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
+			background-color: #f05854;
 			color: #aed6f1;
 		}
 
@@ -3154,7 +3154,7 @@
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
 				background-color: #fff;
-				color: #3498db !important;
+				color: #f05854 !important;
 			}
 
 				.wrapper.style2 input[type="submit"].alt,
@@ -3319,7 +3319,7 @@
 			}
 
 			.wrapper.style2 .image {
-				box-shadow: 0px 0px 0px 7px #3498db, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
+				box-shadow: 0px 0px 0px 7px #f05854, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3427,11 +3427,11 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #3498db;
+				color: #f05854;
 			}
 
 				#header > .logo a:hover {
-					color: #3498db;
+					color: #f05854;
 				}
 
 			#header > .logo span {
@@ -3453,7 +3453,7 @@
 		}
 
 			#header > a:hover {
-				color: #3498db;
+				color: #f05854;
 			}
 
 			#header > a[href="#menu"] {
@@ -3613,7 +3613,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #3498db;
+						color: #f05854;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -3657,7 +3657,7 @@
 			}
 
 			#menu .close:hover {
-				color: #3498db;
+				color: #f05854;
 			}
 
 			@media screen and (max-width: 736px) {
